@@ -1,4 +1,4 @@
-[![MasterHead](www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMrinank-Bhowmick%2Fpython-beginner-projects&psig=AOvVaw2_5gP9OUUi6KUEoZrCCDiE&ust=1714393503076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC-5NXz5IUDFQAAAAAdAAAAABAE)]
+[![NewBanner](https://media.istockphoto.com/id/1136829806/vector/website-app-design-development-technology-software-code-programming-ui-ux-concept.jpg?s=612x612&w=0&k=20&c=wB6hinX448B_fLDEGKubgkeVyX6ijVLQQ_Gz_kSqQUg=)](https://github.com/pardeep90170)
 <h1 align="center">Hi 👋, I'm Pardeep saini</h1>
 <h3 align="center">A passionate Back-end developer from India</h3>
 <img align="right" alt="coding"  width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
